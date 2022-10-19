@@ -3,6 +3,7 @@ package ro.uvt.p3;
 import ro.uvt.p3.io.InputDevice;
 import ro.uvt.p3.io.OutputDevice;
 
+#lol
 public class Main {
 
     public static void main(String[] args) {
