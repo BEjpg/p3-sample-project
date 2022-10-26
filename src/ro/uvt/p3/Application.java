@@ -16,3 +16,7 @@ public class Application {
 
     }
 }
+
+public Number (fruit[] fruits){
+
+}
